@@ -1,0 +1,27 @@
+.post-table{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.author{
+    background-color: rgba(164, 164, 164, 0.104);
+    width: 400px;
+    height:70px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    
+    
+}
+
+.profile{
+    width: 50px;
+    height: 50px;
+    image-orientation: flip;
+    border-radius: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+.edit-form{
+
+    width: 800px;
+    height: 400px;
+    margin: 50px;
+    border-radius: 30px;
+    background-color: rgb(212, 212, 212);
+    padding: 35px;
+    /* margin-top: 520px; */
+    
+}
+
+.edit_form input , .edit_form button{
+        margin-top: 10px;        
+}
+
+.edit_form button{
+    width: 95px;
+}
+

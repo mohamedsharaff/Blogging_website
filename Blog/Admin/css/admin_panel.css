@@ -1,0 +1,12 @@
+.counts_grid{
+    display: grid;
+    grid-template-columns: repeat(4, 250px);
+    gap: 10px;
+
+}
+.counts{
+    border: solid blueviolet 1px;
+    padding: 10px;
+    border-radius: 10px;
+    border-left: solid 5px blueviolet;
+}

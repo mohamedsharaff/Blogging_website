@@ -1,0 +1,9 @@
+img{
+    width: 100px;
+}
+
+.image:active{
+    width: 150px;
+    height: fit-content;
+}
+

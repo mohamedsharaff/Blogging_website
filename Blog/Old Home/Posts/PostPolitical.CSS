@@ -1,0 +1,107 @@
+body{
+    text-align: left ;
+    margin-left: 30px;
+    LIN
+    
+}
+
+
+
+input{
+    margin-top: 10px;
+    width: 400px;
+    height: 40px;
+    font-size: larger;
+    box-shadow: 10PX;
+    /* outline: none; */
+    border-style: none;
+    
+    
+
+}
+
+.TB{
+    border-style: solid;
+    /* border-color: rgb(252, 0, 0);
+    color: red; */
+    background-color: rgba(240, 248, 255, 0);
+    
+}
+
+.TB:focus{
+    border-style: none;
+}
+
+
+.Description{
+    margin-top: 10px;
+    width: 400px;
+    font-size: larger;
+    box-shadow: 10PX;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    /* border-color: rgb(252, 0, 0);
+    color: red; */
+    background-color: rgba(240, 248, 255, 0);
+    
+   
+}
+
+.Description:focus{
+    height: 80px;
+
+}
+
+/* .Discription{
+    height: 100px;
+    font-size: small;
+    
+} */
+
+ button{
+    margin-top: 10px;
+    width: 400px;
+    height: 50px;
+    font-size: larger;
+    background-color: rgb(0, 170, 255);
+    border-radius: 5px;
+    /* outline-style: none; */
+    border-style: none;
+}
+button:hover{
+    margin-top: 10px;
+    width: 400px;
+    height: 50px;
+    font-size: larger;
+    background-color: rgb(0, 170, 255);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.addimg{
+    color: rgb(0, 0, 0);
+    
+}
+.newicon{
+    text-align: left;
+    fill:  rgb(0, 170, 255);
+    float: left;
+    margin-top: -470px;
+    /* margin-right: 250px; */
+    margin-left: 500PX;
+    width: 400px;
+    height: 400px;
+    
+}
+.newicon:hover{
+    fill:  rgb(0, 90, 135);
+    margin-top: -520px;
+    margin-right: 210px;
+    width: 500px;
+    height: 500px;
+    cursor:none
+}
+
+H1{
+        text-align:left;
+        color:  rgb(0, 170, 255) ;
+}
